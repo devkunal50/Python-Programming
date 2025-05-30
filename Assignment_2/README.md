@@ -13,9 +13,11 @@ Otherwise, we print that the number is odd using the `else` block.
 `Output:`
 
 Enter a number: 7
+
 7 is an odd number.
 
 Enter a number: 12
+
 12 is an even number
 
 Thank you.
